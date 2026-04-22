@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MC-Buds.aternos.me",
+    "ip": "MC-Buds.aternos.me:38787",
     "port": 38787,
     "version": "",
     "try-creative": false
